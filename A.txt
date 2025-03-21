@@ -1,3 +1,4 @@
+line 4
 line 3
 line 2
 i fixed the bug / i developed the 4th feature 
