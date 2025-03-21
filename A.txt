@@ -1,6 +1,8 @@
 line 4
 line 3
 line 2
+line 5
+line 6
 i fixed the bug / i developed the 4th feature 
 line 1
 more priority
